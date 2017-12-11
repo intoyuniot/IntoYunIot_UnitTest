@@ -1,0 +1,17 @@
+{
+    "name": "IntoYunIot_UnitTest",
+    "version": "2.2.0",
+    "keywords": "unit-test",
+    "description": "Unit test framework for IntoRobot Firmware",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/IntoYunIot_UnitTest.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
